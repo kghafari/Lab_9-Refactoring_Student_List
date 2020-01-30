@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.exe
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.deps.json
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.runtimeconfig.json
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.dll
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\bin\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.pdb
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\obj\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\obj\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\obj\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\obj\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.dll
+C:\Users\kyleg\source\repos\Lab 9 - Refactoring the Student List project\Lab 9 - Refactoring the Student List project\obj\Debug\netcoreapp3.0\Lab 9 - Refactoring the Student List project.pdb
